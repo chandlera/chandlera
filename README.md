@@ -51,4 +51,4 @@
 
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandlera&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-![Alt](https://repobeats.axiom.co/api/embed/9afbd61aac580eee8260be80e2625f553e2abf9a.svg "Repobeats analytics image")
+![Alt](https://repobeats.axiom.co/api/embed/4f298e40f9a3744b745cab83bfe6c7ba2d091912.svg "Repobeats analytics image")
